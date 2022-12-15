@@ -1,13 +1,9 @@
 #arcade{
     text-align: right;
+    float: right;
+    margin-right: 2px;
 }
-div{
-    position: left;
-    width: 800px;
-    border: 40px;
-    padding: 60px;
-    margin: 20px;
-}
+
 
 #logo{
     position: fixed;
@@ -28,8 +24,13 @@ div.text1{
     width: 750px;
 }
 
+
+div.background{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
 .caption{
     display: block;
 }
-
-
