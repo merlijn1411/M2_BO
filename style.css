@@ -9,9 +9,27 @@ div{
     margin: 20px;
 }
 
-
-
-p{
-    text-align: left;
-    
+#logo{
+    position: fixed;
+    top: 0;
+    left: 0;
 }
+
+#arcade{
+    position: fixed;
+    right: 0;
+    top: 10;
+}
+
+div.text1{
+    vertical-align: top;
+    display: inline-block;
+    text-align: left;
+    width: 750px;
+}
+
+.caption{
+    display: block;
+}
+
+
