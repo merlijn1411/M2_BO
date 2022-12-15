@@ -1,0 +1,17 @@
+#arcade{
+    text-align: right;
+}
+div{
+    position: left;
+    width: 800px;
+    border: 40px;
+    padding: 60px;
+    margin: 20px;
+}
+
+
+
+p{
+    text-align: left;
+    
+}
